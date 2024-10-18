@@ -1,2 +1,3 @@
 nginx
 neosmemo/memos
+node:23-alpine
